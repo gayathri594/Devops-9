@@ -1,9 +1,9 @@
-package com.lbrce;
+package calculator;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class calci {
+public class Calci {
     // List to store results for delete operation
     static ArrayList<Double> numbers = new ArrayList<>();
 
